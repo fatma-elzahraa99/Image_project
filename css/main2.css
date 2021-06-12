@@ -1,0 +1,18 @@
+.v1 {
+  display: block;
+  margin: auto;
+}
+.b {
+  font-size: 25px;
+  position: absolute;
+  left: 480px;
+  top: 650px;
+}
+body {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(29, 211, 253, 0.3648809865743172) 50%
+  );
+}

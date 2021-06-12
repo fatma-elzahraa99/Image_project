@@ -1,0 +1,48 @@
+.c1 {
+  width: 740px;
+  height: 730px;
+  margin: auto;
+  margin-left: 30px;
+}
+.s3 {
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(29, 211, 253, 0.3648809865743172) 50%
+  );
+}
+.card-header {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(29, 211, 253, 0.3648809865743172) 50%
+  );
+}
+.card-body {
+  background-color: #e6e6fa;
+}
+body {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(29, 211, 253, 0.3648809865743172) 50%
+  );
+}
+.img1 {
+  background: rgb(131, 58, 180);
+  height: 100%;
+}
+.s1 {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(29, 211, 253, 0.3648809865743172) 50%
+  );
+}
